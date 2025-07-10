@@ -2,8 +2,8 @@
 
 Welcome to the **next-gen personal space terminal** of [Quách Thành Long](https://stephensouth13.github.io/cv-qtl/) — a futuristic, immersive portfolio crafted as if it were running inside a space station in the year **2300**.
 
-![Preview](![image](https://github.com/user-attachments/assets/5e6c5502-24fe-4335-bd40-b2265dac757d)
-)
+![Preview](https://github.com/user-attachments/assets/5e6c5502-24fe-4335-bd40-b2265dac757d)
+
 
 ## ✨ Overview
 
