@@ -1,0 +1,6 @@
+{
+  "responses": {
+    "greeting": "Hello, I am the AI assistant. How can I help you?",
+    "fallback": "I am sorry, I do not understand that command."
+  }
+}

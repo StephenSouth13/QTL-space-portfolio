@@ -1,0 +1,140 @@
+{
+  "name": "Quách Thành Long",
+  "role": "Investor | Web/Game/System/App Developer | Business Analyst",
+  "email": "stephensouth1307@gmail.com",
+  "website": "https://stephensouth13.github.io/cv-qtl/",
+  "blog": "https://stephensouth9.wordpress.com",
+  "birthday": "13/07/2003",
+  "location": "Hồ Chí Minh, Việt Nam",
+  "phone": "0979 137 018",
+  "education": [
+    {
+      "degree": "Bachelor of Investment Economics",
+      "school": "University of Economics Ho Chi Minh City",
+      "years": "2024–2027"
+    },
+    {
+      "degree": "Bachelor of Game Development",
+      "school": "VTC Academy",
+      "years": "2024–2026"
+    },
+    {
+      "degree": "Bachelor of Human Resource Management",
+      "school": "University of Economics Ho Chi Minh City",
+      "years": "2021–2024"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "IELTS 6.0 (2023)"
+    },
+    {
+      "name": "Japanese",
+      "level": "JLPT N5"
+    },
+    {
+      "name": "German",
+      "level": "Basic Communication (A1)"
+    }
+  ],
+  "skills": {
+    "frontend": ["HTML", "CSS", "JavaScript", "React", "Next.js"],
+    "backend": ["Node.js", "PHP", "Python", "C#", "MySQL", "API", "Rust"],
+    "versionControl": ["Git", "GitHub"],
+    "tools": ["Figma", "Draw.io", "VSCode", "Postman"],
+    "gameDev": ["Unity", "Godot"]
+  },
+  "experience": [
+    {
+      "role": "Head of Information Technology",
+      "company": "MSC Center",
+      "period": "05/2025 – Present"
+    },
+    {
+      "role": "Web Developer & Investment Analyst",
+      "company": "MSC – Mekong Skill Center",
+      "period": "10/2024 – Present"
+    },
+    {
+      "role": "Strategic Advisor",
+      "company": "Galaxy English Center – Dầu Tiếng",
+      "period": "2024"
+    },
+    {
+      "role": "Collaborator",
+      "company": "Statistics Office of District 1",
+      "period": "04/2024 – 06/2024"
+    },
+    {
+      "role": "Collaborator",
+      "company": "Srun",
+      "period": "08/2023 – 12/2023"
+    },
+    {
+      "role": "Business Analyst (Intern)",
+      "company": "BAC",
+      "period": "03/2023 – 08/2023"
+    },
+    {
+      "role": "Tutor",
+      "subjects": "Math, Physics, English",
+      "period": "09/2021 – 12/2023"
+    },
+    {
+      "role": "Sales Collaborator",
+      "company": "Full House Club",
+      "period": "03/2022 – 05/2022"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Unity Game: The Next Generation",
+      "role": "Leader & Developer",
+      "date": "06/2025"
+    },
+    {
+      "name": "Unity Game: Wolf Card",
+      "role": "Leader & Developer",
+      "date": "05/2025"
+    },
+    {
+      "name": "Research Paper: Management Mindset for IT People",
+      "date": "06/2025"
+    },
+    {
+      "name": "Labor Contract Management Software",
+      "role": "UI/UX, Flowchart, BA",
+      "date": "05/2024"
+    },
+    {
+      "name": "Free Basic Programming Class",
+      "role": "C#, C++ Lecturer",
+      "date": "05/2024"
+    },
+    {
+      "name": "Educational Website: msc.edu.vn",
+      "role": "Leader & Developer"
+    }
+  ],
+  "achievements": {
+    "academic": [
+      "First Prize VTC Academy Talent Scholarship – Game Development (2024)",
+      "Top 3 Business Analyst Project – BAC 2024"
+    ],
+    "sports": [
+      "VSM Marathon 2024 Champion – 42km",
+      "Tan Uyen Athletics 2025 Second Prize: 800m individual & 400m relay",
+      "Top 9 male at For the beloved children run 2024",
+      "Top 1 long-distance running record in Tan Uyen – Under 2 hours (2024)"
+    ],
+    "pacing": [
+      "Binh Duong Half Marathon (1h30 – 21km)",
+      "Dak Lak Marathon (4h30 – 42km)"
+    ],
+    "community": [
+      "Youth Volunteer 2024",
+      "Free basic programming class (2023)"
+    ]
+  }
+}
